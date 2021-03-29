@@ -6,7 +6,9 @@ Each library will embed everything your main executable might need to display th
 The main executable will only focus on the game logic and interact with the dynamic libraries.
 The main executable must interact in an identical way with any libraries.
 
-![alt text](Screen/Diagram.jpg)
+<p align="center">
+  <img src="Screen/Diagram.jpg" />
+</p>
 
 __NOTE:__
 It is forbidden to include any library that you did not write yourself. About this, a script must be provided to set up your environment, download and install dependencies.  
