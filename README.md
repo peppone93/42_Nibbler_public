@@ -1,8 +1,8 @@
 # Nibbler
 
-Nibbler is yet another snake video game written in C++ including a major twist: dynamiclibraries.  
+Nibbler is yet another snake video game written in C++ including a major twist: dynamic libraries.  
 The goal is splitted in 4 parts: a main executable and 3 dynamic libraries that the main executable will load and use at runtime.  
-Each library will embed everything your main executable might need to display the game and to getthe player’s inputs.  
+Each library will embed everything your main executable might need to display the game and to get the player’s inputs.  
 The main executable will only focus on the game logic and interact with the dynamic libraries.
 The main executable must interact in a identical way with any libraries.
 
