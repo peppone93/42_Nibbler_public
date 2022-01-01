@@ -7,7 +7,7 @@ The main executable will only focus on the game logic and interact with the dyna
 The main executable must interact in an identical way with any libraries.
 
 <p align="center">
-  <img src="Screen/Diagram.jpg" />
+  <img src="Screens/Diagram.jpg" />
 </p>
 
 __NOTE:__
@@ -28,7 +28,7 @@ __Realized options:__
 ![alt text](Screens/2.jpg)
 
 <p align="center">
-  <img src="Screen/video.gif" />
+  <img src="Screens/video.gif" />
 </p>
 
 _If you are interested in the complete code, please do not hesitate to contact me._
