@@ -24,8 +24,8 @@ __Realized options:__
 - Sounds (Through a dynamic library)
 - Local Multiplayer (Two snakes fighting for the same food)
 
-![alt text](Screen/1.jpg)
-![alt text](Screen/2.jpg)
+![alt text](Screens/1.jpg)
+![alt text](Screens/2.jpg)
 
 <p align="center">
   <img src="Screen/video.gif" />
