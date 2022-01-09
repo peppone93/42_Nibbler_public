@@ -28,7 +28,7 @@ __Realized options:__
 ![alt text](Screens/2.jpg)
 
 <p align="center">
-  <img src="Screens/video.gif" width="600"/>
+  <img src="Screens/video.gif" width="500"/>
 </p>
 
 
