@@ -28,7 +28,8 @@ __Realized options:__
 ![alt text](Screens/2.jpg)
 
 <p align="center">
-  <img src="Screens/video.gif" />
+  <img src="Screens/video.gif" width="300"/>
 </p>
+
 
 _If you are interested in the complete code, please do not hesitate to contact me._
