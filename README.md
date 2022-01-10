@@ -26,9 +26,10 @@ __Realized options:__
 
 ![alt text](Screens/1.jpg)
 ![alt text](Screens/2.jpg)
+![alt text](Screens/3.jpg)
 
 <p align="center">
-  <img src="Screens/video.gif" width="500"/>
+  <img src="Screens/Video.gif" width="500"/>
 </p>
 
 
