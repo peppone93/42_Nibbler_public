@@ -29,7 +29,7 @@ __Realized options:__
 ![alt text](Screens/3.jpg)
 
 <p align="center">
-  <img src="Screens/Video.gif" width="550"/>
+  <img src="Screens/GifVideo.gif" width="550"/>
 </p>
 
 
